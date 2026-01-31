@@ -8,7 +8,12 @@
 # READ BEFORE INSTALLATION
 
 **CONFIG FILE IN ~/.ssh_servers**
-*vim/nano/nvim .ssh_servers*
+
+```
+nano .ssh_servers
+vim .ssh_servers
+nvim .ssh_servers 
+```
 
 <p align="center">
   <img src="images/2026-02-01_00-11-53.png" alt="DELSSHCONFprev" width="600">
