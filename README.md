@@ -15,6 +15,10 @@ vim .ssh_servers
 nvim .ssh_servers 
 ```
 
+
+*All your servers and other things that you specified are added there.*
+*Something like this*
+
 <p align="center">
   <img src="images/2026-02-01_00-11-53.png" alt="DELSSHCONFprev" width="600">
 </p>
