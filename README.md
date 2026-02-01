@@ -26,3 +26,11 @@ nvim .ssh_servers
 *But in my case, everything worked perfectly*
 
 **RUSSIAN LANGUAGE ONLY**
+
+# INSTALLATION
+```
+git clone https://github.com/delfel25/Del-SSH.git
+cd Del-SSH
+chmod +x DelSSH.sh
+./DelSSH.sh
+```
