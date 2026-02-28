@@ -23,7 +23,8 @@ nvim .ssh_servers
 </p>
 
 **I'm not sure if this will work well.**
-*But in my case, everything worked perfectly*
+*But in my case, everything worked perfectly.*
+*Actually, I did it for my own purposes. I hope this will be useful to someone too.*
 
 **RUSSIAN LANGUAGE ONLY**
 
